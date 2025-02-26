@@ -1,6 +1,6 @@
 # Rahul-M
 ## Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=RahulM2416&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=RahulM2416&color=red)
 
 
 
