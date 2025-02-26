@@ -1,5 +1,7 @@
 # Rahul-M
 ## Hi there 👋
+![Profile Views](https://profile-counter.glitch.me/RahulM2416/count.svg)
+
 
 <!--
 **RahulMKannadiga/RahulMKannadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
