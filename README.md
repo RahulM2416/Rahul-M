@@ -1,6 +1,7 @@
 # Rahul-M
 ## Hi there 👋
-![Profile Views](https://profile-counter.glitch.me/RahulM2416/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=RahulM2416&color=blue)
+
 
 
 <!--
